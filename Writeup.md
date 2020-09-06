@@ -2,7 +2,7 @@ Offical writeup for Pineapple Under The Sea, a TryHackMe box.
 
 Author: Jackie Mann
 
-Email: jackiemann82@gmail.com
+Email: jackiemann82-at-gmail.com
 
 Alias: whiteshd0w
 
