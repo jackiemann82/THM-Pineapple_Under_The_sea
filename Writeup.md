@@ -1,7 +1,9 @@
 Offical writeup for Pineapple Under The Sea, a TryHackMe box.
 
 Author: Jackie Mann
+
 Email: jackiemann82@gmail.com
+
 Alias: whiteshd0w
 
 This is a box based loosely on everybody's favorite sponge that lives under the sea!
