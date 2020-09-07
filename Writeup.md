@@ -6,7 +6,7 @@ Email: jackiemann82-at-gmail.com
 
 Alias: whiteshd0w
 
-This is a box based loosely on everybody's favorite sponge that lives under the sea!
+This is a beginner box based loosely on everybody's favorite sponge that lives under the sea!
 
 ***Note: The IP address of your target machine will be different. Replace the IP address shown in the writeup below with the IP address of your target machine***
 
